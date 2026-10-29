@@ -1,0 +1,8 @@
+{
+  "trunk": {
+    "name": "Carrier via static-IP proxy",
+    "numbers": ["+15105550100"],
+    "auth_username": "lk-proxy",
+    "auth_password": "change-me-inbound"
+  }
+}

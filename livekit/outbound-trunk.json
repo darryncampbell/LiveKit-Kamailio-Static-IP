@@ -1,0 +1,9 @@
+{
+  "trunk": {
+    "name": "Carrier via static-IP proxy",
+    "address": "198.51.100.20",
+    "numbers": ["+15105550100"],
+    "auth_username": "livekit",
+    "auth_password": "change-me-outbound"
+  }
+}
